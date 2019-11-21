@@ -1,0 +1,9 @@
+
+# config
+
+felfinder/config.py
+
+# pycache items
+
+felfinder/__pycache__/*
+
