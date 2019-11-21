@@ -2,7 +2,6 @@
 
 venv/*
 
-
 # config
 
 felfinder/config.py
@@ -11,3 +10,11 @@ felfinder/config.py
 
 felfinder/__pycache__/*
 
+# DB
+
+felfinder/userdirs.db
+
+# Garbage
+
+*~
+felfinder/*~
